@@ -1,0 +1,57 @@
+				
+			Agenda: Data Validation
+
+   - Feature of Excel to Check the Data Quality
+   - Define Rules for Data Quality Check
+   - Use cases:
+    	1) Prevent incorrect data to be entered
+     	2) Identify the incorrect data
+------------------------------------------------------------------------------
+			Agenda: Conditional Formatting
+
+  - Automatically apply Formatting to data based on conditions 
+  - Use cases:
+    	1) Highlight important information
+    	2) Identify trends
+    	3) Understand Data
+------------------------------------------------------------------------------
+			Agenda: Sorting
+
+-  Arranges your data(rows) in a specific order, 
+   either ascending or descending.
+- Organizes data 
+	alphabetically: ASC(a-z), DESC(z-a) 
+	numerically: ASC(small - big), DESC(big-small)  
+	by date: ASC(old-new), DESC(new-old)
+- Types:
+	1) by Single Column 
+	2) by Multiple Columns
+	3) by Cell Color, Icons
+	4) by Custom List
+----------------------------------------------------------------------------
+			Agenda: Filtering
+
+- Selecting specific data/ Removing unwanted data.
+- Types:
+	1) by Data Types - Number, Text, Date Filters
+	2) by Custom Conditions : Filter Copy
+	3) Removing Duplicate Rows
+	4) Copying Unique's
+	5) Wildcard Filtering
+----------------------------------------------------------------------------
+	Agenda: Searching using LOOKUP Functions
+
+Types:
+	LOOKUP
+	XLOOKUP
+	VLOOKUP
+	HLOOKUP
+	INDEX & MATCH	
+
+
+
+
+
+
+
+ 

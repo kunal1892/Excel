@@ -1,0 +1,89 @@
+			Agenda
+----------------------------------------
+	1) Cell Range vs Table
+	2) Pivot Tables (summary tables)
+	3) Pivot Charts
+	4) Slicers
+	5) Dashboard : 
+			Single Page
+			Quick decision Making  
+	    Report: 
+			Single or Multiple Pages
+			Detailed Analysis
+
+	6) Power Pivot: Creating Data Model
+		a) Dataset: set of data tables without relationships
+		b) Data Model: Set of data tables connected via 						 relationships
+		c) Relationship can be established between two 			    tables having common columns
+		d) Common Columns are the columns from two 			     tables that hold the same information
+
+	7) Import Data into Excel
+		- Gathering data from different data sources into 			   the excel workbook
+ 		- Get Data Command (Data Tab)
+		- Data Refresh
+
+	8) Power Query Editor: 
+		- Data Cleaning & Transformation Tool
+		- Import > Transform
+		- Excel data : Data > Get Data > Launch PQE
+
+	9) Macros: 
+		- Feature of Excel that will help you 
+		  Automate the repetitive Tasks
+		- File must be saved as .xlsm file
+		- Access: Developer Tab
+		- Types of Macros
+			a) Absolute Macros
+			b) Relative Macros
+		- Run Macro:
+			1) Run Command
+`			2) Shortcut Key
+			3) From Custom Tab in Ribbon
+			4) Add a Button to Run Macros
+		- Example DA tasks automated by Macros
+
+	10) VBA: Create User defined Functions
+	12) Userforms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

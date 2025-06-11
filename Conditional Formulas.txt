@@ -1,0 +1,154 @@
+1) DA = Basic * 30%
+2) HRA = (Basic + DA) * 40% 
+3) TA = 5000 to Marketing Employees
+4) PF = Basic * 12%
+5) Bonus = 40% of Basic to Training Employees from W Region
+6) Incentive = 5000 to Accounts and Operations Employees
+7) OT = 3500 to Employees in Departments other than Accounts & Operations    NOT(OR(acc, op))
+8) CCA = 5000 to Employees working in Cities: Mumbai, Delhi, Kolkata, Chennai, Bangalore
+
+[Not in Cities: Pune, Noida, Mysore, Mangalore, Cuttack]
+
+9) Special Allowance = 30% of Basic to 
+
+10) Gross Salary = Basic + DA + HRA + TA + Incentive +Bonus + Overtime + CCA + Special Allowance
+
+11) Net Salary = Gross Salary - (PF + P. Tax)
+
+
+Logical Functions:
+	IF(): condition, if True do one thing, if false do other
+
+To Combine Conditions:
+	(1) AND(): all conditions are compulsory
+	(2) OR(): at least one should be true
+
+NOT(): Alter the result of a Condition
+	T --> F
+        F --> T
+
+Nested IF: Decision within decision
+IF inside IF
+
+IFS(): Check Series of Conditions based on False result of Prev. condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

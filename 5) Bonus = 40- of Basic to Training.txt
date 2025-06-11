@@ -1,0 +1,4 @@
+5) Bonus = 40% of Basic to Training Employees from W Region
+
+-- Department = "TRaining", REgion = w -- 40%
+                                                                    not west -- 10%

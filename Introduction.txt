@@ -1,0 +1,57 @@
+Data: Information stored in digitally
+
+Data Formats: Numbers, text, date, audio, video, etc
+Number
+Text
+Date
+
+Organize data:
+1) Structured: Data stored in rows & Columns
+                    : table format
+2) Un-Structured : audio, video, text 
+
+Where we are storing the data?
+: Data Sources (Excel, spreadsheets, databases, cloud)
+
+Exploring Functions in Excel:
+1) Text, Number, Date : Helps to handle data
+2) Aggregate Functions, IFS Functions: Helps to Summarize data
+3) Information Functions: Helps to Understand data
+4) Logical Functions: Define Complex conditions & write Decision Making Statements
+
+
+Use Cases:
+1) Data Cleaning & Transformation
+2) To define conditions for different DA Techniques
+
+DA Techniques:
+Data Validation
+Conditional Formatting
+Filtering & Sorting
+Searching with LOOKUPs
+-----------------------------------------
+Adv. Excel:
+Pivot Tables 
+Charts
+Power Pivot
+Power Query Editor
+----------------------------------------
+Automation:
+Macros
+VBA
+User Forms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
